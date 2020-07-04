@@ -1,4 +1,4 @@
-# Brithday-remainder
+# Birthday-remainder
 Overview of Project:
 1 )Users can add birthday data to the program and can search for particular data.
 2 )Simple user interface with 3 prompts for searching, inserting data and exiting the program.
